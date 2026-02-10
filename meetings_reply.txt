@@ -1,0 +1,6 @@
+Dear {original_sender},
+Thank you for your email. I’m writing to confirm that the meeting has been successfully scheduled as per the proposed details.
+{reply_body}
+If there are any additional updates, requirements, or adjustments needed, please let me know at your earliest convenience.
+Best regards,
+{original_recipient}

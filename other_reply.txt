@@ -1,0 +1,4 @@
+Dear {original_sender},
+Thank you for reaching out. Unfortunately, we were unable to process your request due to unrecognized intent. Please provide additional details to assist you better.
+Best regards,
+{original_recipient}
